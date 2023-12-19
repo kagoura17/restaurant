@@ -1,0 +1,25 @@
+/* marge de la page */
+* {
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+/* backgroude */
+* {
+ background-color: rgb(62, 46, 24);
+}
+.titre-1{
+    color: white;
+    font-size: 40px;
+    text-decoration: underline dashed 5px;
+    text-underline-offset: 10px;
+}
+.form{
+    color: white;
+    font-size: 30px; 
+}
+input, textarea {
+    background-color: #ffb434;
+  }
+

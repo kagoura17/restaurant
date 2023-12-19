@@ -1,0 +1,57 @@
+/* marge de la page */
+* {
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+/* backgroude */
+* {
+ background-color: rgb(62, 46, 24);
+}
+nav a {
+   color: rgb(255, 255, 255);
+   font-size: 35px;
+   margin: 5px;
+}
+/* intro */
+.Bienvenue{
+    color: white;
+    font-size: 60px;
+    text-decoration: underline dashed 5px;
+text-underline-offset:10px;
+}
+.intro {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif
+}
+/* le menu */
+.titre-menu {
+    color: white;
+    font-size: 40px;
+text-decoration: underline dashed 5px;
+text-underline-offset:10px;
+}
+.menu{
+    color: white;
+    font-size: 25px;
+}
+/* about us */
+.about-us {
+    color: white;
+    font-size: 40px;
+    text-decoration: underline dashed 5px;
+    text-underline-offset:10px;
+}
+#about-us-text {
+    color: white;
+    font-size: 25px;
+
+}
+
+/* image */
+#image-1 {
+margin-left: 50px;
+margin-bottom: 20px;
+}
